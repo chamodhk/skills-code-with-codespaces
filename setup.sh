@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sudo apt-get update
-sudo apt-get insall sl
-echo "export PATH=\$PATH:/user/games" >> ~/.bashrc
+sudo apt-get install sl
+echo "export PATH=\$PATH:/usr/games" >> ~/.bashrc
